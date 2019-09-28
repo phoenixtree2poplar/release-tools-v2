@@ -1,5 +1,7 @@
 # 开源free
 #### 1、v2rayN-Core 【官网：https://github.com/v2ray/v2ray-core/releases
+#### 1、v2ray-macos 【官网：https://github.com/v2ray/v2ray-core/releases
+
 # release-tools-v1
 #### 1、winrar
 #### 2、HONEYVIEW 【官网：https://honeyview.en.softonic.com/
