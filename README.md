@@ -3,6 +3,8 @@
 #### 2、win10 Defender一键关闭 【官网：http://www.carrotchou.blog/27785.html
 #### 3、v2rayN-Core 【官网：https://github.com/v2ray/v2ray-core/releases
 #### 4、v2ray-macos 【官网：https://github.com/v2ray/v2ray-core/releases
+#### 9、TortoiseGit+中文补丁 【官网：https://tortoisegit.org/download/
+
 # release-tools-v1
 #### 1、winrar
 #### 2、HONEYVIEW 【官网：https://honeyview.en.softonic.com/
