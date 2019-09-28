@@ -1,9 +1,10 @@
 # 开源free
 #### 1、BeyondCompare 【官网：http://www.scootersoftware.com/download.php
-#### 2、win10 Defender一键关闭 【官网：http://www.carrotchou.blog/27785.html
-#### 3、v2rayN-Core 【官网：https://github.com/v2ray/v2ray-core/releases
-#### 4、v2ray-macos 【官网：https://github.com/v2ray/v2ray-core/releases
-#### 5、TortoiseGit+中文补丁 【官网：https://tortoisegit.org/download/
+#### 2、jdk1.8中文文档 【官网：https://docs.oracle.com/javase/8/docs/
+#### 3、win10 Defender一键关闭 【官网：http://www.carrotchou.blog/27785.html
+#### 4、v2rayN-Core 【官网：https://github.com/v2ray/v2ray-core/releases
+#### 5、v2ray-macos 【官网：https://github.com/v2ray/v2ray-core/releases
+#### 6、TortoiseGit+中文补丁 【官网：https://tortoisegit.org/download/
 # release-tools-v1
 #### 1、winrar
 #### 2、HONEYVIEW 【官网：https://honeyview.en.softonic.com/
