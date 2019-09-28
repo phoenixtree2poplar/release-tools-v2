@@ -1,7 +1,8 @@
 # 开源free
 #### 1、v2rayN-Core 【官网：https://github.com/v2ray/v2ray-core/releases
-#### 1、v2ray-macos 【官网：https://github.com/v2ray/v2ray-core/releases
-#### 2、win10 Defender一键关闭 【官网：http://www.carrotchou.blog/27785.html
+#### 2、v2ray-macos 【官网：https://github.com/v2ray/v2ray-core/releases
+#### 3、win10 Defender一键关闭 【官网：http://www.carrotchou.blog/27785.html
+#### 4、BeyondCompare 【官网：http://www.scootersoftware.com/download.php
 # release-tools-v1
 #### 1、winrar
 #### 2、HONEYVIEW 【官网：https://honeyview.en.softonic.com/
